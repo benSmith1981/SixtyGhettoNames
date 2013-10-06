@@ -22,6 +22,72 @@
 		903CCE8817FF091F00304936 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 903CCE6717FF091F00304936 /* UIKit.framework */; };
 		903CCE9017FF091F00304936 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 903CCE8E17FF091F00304936 /* InfoPlist.strings */; };
 		903CCE9217FF091F00304936 /* SixtyGhettoNamesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 903CCE9117FF091F00304936 /* SixtyGhettoNamesTests.m */; };
+		903CCE9C17FF499A00304936 /* graffitiWall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 903CCE9B17FF499A00304936 /* graffitiWall.jpg */; };
+		903CCEA017FF4BB100304936 /* Sound.m in Sources */ = {isa = PBXBuildFile; fileRef = 903CCE9F17FF4BB100304936 /* Sound.m */; };
+		903CCEA317FF4D0000304936 /* GhettoNames.txt in Resources */ = {isa = PBXBuildFile; fileRef = 903CCEA217FF4D0000304936 /* GhettoNames.txt */; };
+		903CCF2117FF500300304936 /* FortyScript.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF2017FF500300304936 /* FortyScript.ttf */; };
+		903CCF5F18000AA700304936 /* 10UnitedStatesZovAmerikaliqua.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF2318000AA700304936 /* 10UnitedStatesZovAmerikaliqua.mp3 */; };
+		903CCF6018000AA800304936 /* 11Cellularphoniqua.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF2418000AA700304936 /* 11Cellularphoniqua.mp3 */; };
+		903CCF6118000AA800304936 /* 12Watermelondrea.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF2518000AA700304936 /* 12Watermelondrea.mp3 */; };
+		903CCF6218000AA800304936 /* 13Beethovenice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF2618000AA700304936 /* 13Beethovenice.mp3 */; };
+		903CCF6318000AA800304936 /* 14Harlemisha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF2718000AA700304936 /* 14Harlemisha.mp3 */; };
+		903CCF6418000AA800304936 /* 15Comptonia.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF2818000AA700304936 /* 15Comptonia.mp3 */; };
+		903CCF6518000AA800304936 /* 16FaNayNay.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF2918000AA700304936 /* 16FaNayNay.mp3 */; };
+		903CCF6618000AA800304936 /* 17Clitorisandrea.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF2A18000AA700304936 /* 17Clitorisandrea.mp3 */; };
+		903CCF6718000AA800304936 /* 18Spongebobeeshia.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF2B18000AA700304936 /* 18Spongebobeeshia.mp3 */; };
+		903CCF6818000AA800304936 /* 19Koolaidria.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF2C18000AA700304936 /* 19Koolaidria.mp3 */; };
+		903CCF6918000AA800304936 /* 1Courtney.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF2D18000AA700304936 /* 1Courtney.mp3 */; };
+		903CCF6A18000AA800304936 /* 20Obamaniqua.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF2E18000AA700304936 /* 20Obamaniqua.mp3 */; };
+		903CCF6B18000AA800304936 /* 21Barackisha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF2F18000AA700304936 /* 21Barackisha.mp3 */; };
+		903CCF6C18000AA800304936 /* 22Congratulashayla.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF3018000AA700304936 /* 22Congratulashayla.mp3 */; };
+		903CCF6D18000AA800304936 /* 23Cornbreesha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF3118000AA700304936 /* 23Cornbreesha.mp3 */; };
+		903CCF6E18000AA800304936 /* 24QuaLifriaquiShaNiquia.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF3218000AA700304936 /* 24QuaLifriaquiShaNiquia.mp3 */; };
+		903CCF6F18000AA800304936 /* 25Guuuuuurrrrrrllllll.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF3318000AA700304936 /* 25Guuuuuurrrrrrllllll.mp3 */; };
+		903CCF7018000AA800304936 /* 26LaQuaysha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF3418000AA700304936 /* 26LaQuaysha.mp3 */; };
+		903CCF7118000AA800304936 /* 27Elephantisha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF3518000AA700304936 /* 27Elephantisha.mp3 */; };
+		903CCF7218000AA800304936 /* 28ShaQuonda.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF3618000AA700304936 /* 28ShaQuonda.mp3 */; };
+		903CCF7318000AA800304936 /* 29ShaLondria.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF3718000AA700304936 /* 29ShaLondria.mp3 */; };
+		903CCF7418000AA800304936 /* 2LaTanianaBoVanashrianiqualiquanice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF3818000AA700304936 /* 2LaTanianaBoVanashrianiqualiquanice.mp3 */; };
+		903CCF7518000AA800304936 /* 30KaLikatifrianiqua.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF3918000AA700304936 /* 30KaLikatifrianiqua.mp3 */; };
+		903CCF7618000AA800304936 /* 31DeLanice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF3A18000AA700304936 /* 31DeLanice.mp3 */; };
+		903CCF7718000AA800304936 /* 32Tramicia.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF3B18000AA700304936 /* 32Tramicia.mp3 */; };
+		903CCF7818000AA800304936 /* 33Deedra.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF3C18000AA700304936 /* 33Deedra.mp3 */; };
+		903CCF7918000AA800304936 /* 34LaTrice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF3D18000AA700304936 /* 34LaTrice.mp3 */; };
+		903CCF7A18000AA800304936 /* 35DaQuonde.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF3E18000AA700304936 /* 35DaQuonde.mp3 */; };
+		903CCF7B18000AA800304936 /* 36TayTay.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF3F18000AA700304936 /* 36TayTay.mp3 */; };
+		903CCF7C18000AA800304936 /* 37ShaNayNay.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF4018000AA700304936 /* 37ShaNayNay.mp3 */; };
+		903CCF7D18000AA800304936 /* 38VLantaLaManaMaNisha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF4118000AA700304936 /* 38VLantaLaManaMaNisha.mp3 */; };
+		903CCF7E18000AA800304936 /* 39BonQuiQui.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF4218000AA700304936 /* 39BonQuiQui.mp3 */; };
+		903CCF7F18000AA800304936 /* 3QueShayda.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF4318000AA700304936 /* 3QueShayda.mp3 */; };
+		903CCF8018000AA800304936 /* 40Kisha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF4418000AA700304936 /* 40Kisha.mp3 */; };
+		903CCF8118000AA800304936 /* 41FoLandra.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF4518000AA700304936 /* 41FoLandra.mp3 */; };
+		903CCF8218000AA800304936 /* 42Abduiniana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF4618000AA700304936 /* 42Abduiniana.mp3 */; };
+		903CCF8318000AA800304936 /* 43MoNique.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF4718000AA700304936 /* 43MoNique.mp3 */; };
+		903CCF8418000AA800304936 /* 44Barbeesha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF4818000AA700304936 /* 44Barbeesha.mp3 */; };
+		903CCF8518000AA800304936 /* 45LaQuishraniqua.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF4918000AA700304936 /* 45LaQuishraniqua.mp3 */; };
+		903CCF8618000AA800304936 /* 46Bufanaquishria.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF4A18000AA700304936 /* 46Bufanaquishria.mp3 */; };
+		903CCF8718000AA800304936 /* 47Levondia.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF4B18000AA700304936 /* 47Levondia.mp3 */; };
+		903CCF8818000AA800304936 /* 48Shataniana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF4C18000AA700304936 /* 48Shataniana.mp3 */; };
+		903CCF8918000AA800304936 /* 49Bonifa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF4D18000AA700304936 /* 49Bonifa.mp3 */; };
+		903CCF8A18000AA800304936 /* 4Africanishaniqua.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF4E18000AA700304936 /* 4Africanishaniqua.mp3 */; };
+		903CCF8B18000AA800304936 /* 50LaQuishria.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF4F18000AA700304936 /* 50LaQuishria.mp3 */; };
+		903CCF8C18000AA800304936 /* 51Toprameneesha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF5018000AA700304936 /* 51Toprameneesha.mp3 */; };
+		903CCF8D18000AA800304936 /* 52ShaTanya.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF5118000AA700304936 /* 52ShaTanya.mp3 */; };
+		903CCF8E18000AA800304936 /* 53BonQuisha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF5218000AA700304936 /* 53BonQuisha.mp3 */; };
+		903CCF8F18000AA800304936 /* 54Rohandra.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF5318000AA700304936 /* 54Rohandra.mp3 */; };
+		903CCF9018000AA800304936 /* 55LaTanya.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF5418000AA700304936 /* 55LaTanya.mp3 */; };
+		903CCF9118000AA800304936 /* 56LaKisha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF5518000AA700304936 /* 56LaKisha.mp3 */; };
+		903CCF9218000AA800304936 /* 57Laquisha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF5618000AA700304936 /* 57Laquisha.mp3 */; };
+		903CCF9318000AA800304936 /* 58Latoya.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF5718000AA700304936 /* 58Latoya.mp3 */; };
+		903CCF9418000AA800304936 /* 59Shaniqua.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF5818000AA700304936 /* 59Shaniqua.mp3 */; };
+		903CCF9518000AA800304936 /* 5Grapedrankisha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF5918000AA700304936 /* 5Grapedrankisha.mp3 */; };
+		903CCF9618000AA800304936 /* 60Latifah.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF5A18000AA700304936 /* 60Latifah.mp3 */; };
+		903CCF9718000AA800304936 /* 6CollaGreeniqua.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF5B18000AA700304936 /* 6CollaGreeniqua.mp3 */; };
+		903CCF9818000AA800304936 /* 7FriChickenisha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF5C18000AA700304936 /* 7FriChickenisha.mp3 */; };
+		903CCF9918000AA800304936 /* 8KingKongQuisha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF5D18000AA700304936 /* 8KingKongQuisha.mp3 */; };
+		903CCF9A18000AA800304936 /* 9Alejandrisha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF5E18000AA700304936 /* 9Alejandrisha.mp3 */; };
+		90CBFDA41801D71B00B9B0DF /* BOREDSB.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 90CBFDA31801D71B00B9B0DF /* BOREDSB.TTF */; };
+		90CBFDA51801D72300B9B0DF /* codygraff.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 90CBFDA21801D6EA00B9B0DF /* codygraff.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +121,74 @@
 		903CCE8D17FF091F00304936 /* SixtyGhettoNamesTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SixtyGhettoNamesTests-Info.plist"; sourceTree = "<group>"; };
 		903CCE8F17FF091F00304936 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		903CCE9117FF091F00304936 /* SixtyGhettoNamesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SixtyGhettoNamesTests.m; sourceTree = "<group>"; };
+		903CCE9B17FF499A00304936 /* graffitiWall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = graffitiWall.jpg; sourceTree = "<group>"; };
+		903CCE9E17FF4BB100304936 /* Sound.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sound.h; sourceTree = "<group>"; };
+		903CCE9F17FF4BB100304936 /* Sound.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Sound.m; sourceTree = "<group>"; };
+		903CCEA117FF4C4900304936 /* Constants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
+		903CCEA217FF4D0000304936 /* GhettoNames.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = GhettoNames.txt; sourceTree = "<group>"; };
+		903CCF2017FF500300304936 /* FortyScript.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FortyScript.ttf; sourceTree = "<group>"; };
+		903CCF2318000AA700304936 /* 10UnitedStatesZovAmerikaliqua.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 10UnitedStatesZovAmerikaliqua.mp3; sourceTree = "<group>"; };
+		903CCF2418000AA700304936 /* 11Cellularphoniqua.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 11Cellularphoniqua.mp3; sourceTree = "<group>"; };
+		903CCF2518000AA700304936 /* 12Watermelondrea.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 12Watermelondrea.mp3; sourceTree = "<group>"; };
+		903CCF2618000AA700304936 /* 13Beethovenice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 13Beethovenice.mp3; sourceTree = "<group>"; };
+		903CCF2718000AA700304936 /* 14Harlemisha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 14Harlemisha.mp3; sourceTree = "<group>"; };
+		903CCF2818000AA700304936 /* 15Comptonia.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 15Comptonia.mp3; sourceTree = "<group>"; };
+		903CCF2918000AA700304936 /* 16FaNayNay.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 16FaNayNay.mp3; sourceTree = "<group>"; };
+		903CCF2A18000AA700304936 /* 17Clitorisandrea.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 17Clitorisandrea.mp3; sourceTree = "<group>"; };
+		903CCF2B18000AA700304936 /* 18Spongebobeeshia.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 18Spongebobeeshia.mp3; sourceTree = "<group>"; };
+		903CCF2C18000AA700304936 /* 19Koolaidria.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 19Koolaidria.mp3; sourceTree = "<group>"; };
+		903CCF2D18000AA700304936 /* 1Courtney.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 1Courtney.mp3; sourceTree = "<group>"; };
+		903CCF2E18000AA700304936 /* 20Obamaniqua.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 20Obamaniqua.mp3; sourceTree = "<group>"; };
+		903CCF2F18000AA700304936 /* 21Barackisha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 21Barackisha.mp3; sourceTree = "<group>"; };
+		903CCF3018000AA700304936 /* 22Congratulashayla.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 22Congratulashayla.mp3; sourceTree = "<group>"; };
+		903CCF3118000AA700304936 /* 23Cornbreesha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 23Cornbreesha.mp3; sourceTree = "<group>"; };
+		903CCF3218000AA700304936 /* 24QuaLifriaquiShaNiquia.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 24QuaLifriaquiShaNiquia.mp3; sourceTree = "<group>"; };
+		903CCF3318000AA700304936 /* 25Guuuuuurrrrrrllllll.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 25Guuuuuurrrrrrllllll.mp3; sourceTree = "<group>"; };
+		903CCF3418000AA700304936 /* 26LaQuaysha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 26LaQuaysha.mp3; sourceTree = "<group>"; };
+		903CCF3518000AA700304936 /* 27Elephantisha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 27Elephantisha.mp3; sourceTree = "<group>"; };
+		903CCF3618000AA700304936 /* 28ShaQuonda.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 28ShaQuonda.mp3; sourceTree = "<group>"; };
+		903CCF3718000AA700304936 /* 29ShaLondria.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 29ShaLondria.mp3; sourceTree = "<group>"; };
+		903CCF3818000AA700304936 /* 2LaTanianaBoVanashrianiqualiquanice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 2LaTanianaBoVanashrianiqualiquanice.mp3; sourceTree = "<group>"; };
+		903CCF3918000AA700304936 /* 30KaLikatifrianiqua.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 30KaLikatifrianiqua.mp3; sourceTree = "<group>"; };
+		903CCF3A18000AA700304936 /* 31DeLanice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 31DeLanice.mp3; sourceTree = "<group>"; };
+		903CCF3B18000AA700304936 /* 32Tramicia.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 32Tramicia.mp3; sourceTree = "<group>"; };
+		903CCF3C18000AA700304936 /* 33Deedra.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 33Deedra.mp3; sourceTree = "<group>"; };
+		903CCF3D18000AA700304936 /* 34LaTrice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 34LaTrice.mp3; sourceTree = "<group>"; };
+		903CCF3E18000AA700304936 /* 35DaQuonde.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 35DaQuonde.mp3; sourceTree = "<group>"; };
+		903CCF3F18000AA700304936 /* 36TayTay.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 36TayTay.mp3; sourceTree = "<group>"; };
+		903CCF4018000AA700304936 /* 37ShaNayNay.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 37ShaNayNay.mp3; sourceTree = "<group>"; };
+		903CCF4118000AA700304936 /* 38VLantaLaManaMaNisha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 38VLantaLaManaMaNisha.mp3; sourceTree = "<group>"; };
+		903CCF4218000AA700304936 /* 39BonQuiQui.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 39BonQuiQui.mp3; sourceTree = "<group>"; };
+		903CCF4318000AA700304936 /* 3QueShayda.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 3QueShayda.mp3; sourceTree = "<group>"; };
+		903CCF4418000AA700304936 /* 40Kisha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 40Kisha.mp3; sourceTree = "<group>"; };
+		903CCF4518000AA700304936 /* 41FoLandra.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 41FoLandra.mp3; sourceTree = "<group>"; };
+		903CCF4618000AA700304936 /* 42Abduiniana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 42Abduiniana.mp3; sourceTree = "<group>"; };
+		903CCF4718000AA700304936 /* 43MoNique.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 43MoNique.mp3; sourceTree = "<group>"; };
+		903CCF4818000AA700304936 /* 44Barbeesha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 44Barbeesha.mp3; sourceTree = "<group>"; };
+		903CCF4918000AA700304936 /* 45LaQuishraniqua.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 45LaQuishraniqua.mp3; sourceTree = "<group>"; };
+		903CCF4A18000AA700304936 /* 46Bufanaquishria.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 46Bufanaquishria.mp3; sourceTree = "<group>"; };
+		903CCF4B18000AA700304936 /* 47Levondia.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 47Levondia.mp3; sourceTree = "<group>"; };
+		903CCF4C18000AA700304936 /* 48Shataniana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 48Shataniana.mp3; sourceTree = "<group>"; };
+		903CCF4D18000AA700304936 /* 49Bonifa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 49Bonifa.mp3; sourceTree = "<group>"; };
+		903CCF4E18000AA700304936 /* 4Africanishaniqua.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 4Africanishaniqua.mp3; sourceTree = "<group>"; };
+		903CCF4F18000AA700304936 /* 50LaQuishria.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 50LaQuishria.mp3; sourceTree = "<group>"; };
+		903CCF5018000AA700304936 /* 51Toprameneesha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 51Toprameneesha.mp3; sourceTree = "<group>"; };
+		903CCF5118000AA700304936 /* 52ShaTanya.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 52ShaTanya.mp3; sourceTree = "<group>"; };
+		903CCF5218000AA700304936 /* 53BonQuisha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 53BonQuisha.mp3; sourceTree = "<group>"; };
+		903CCF5318000AA700304936 /* 54Rohandra.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 54Rohandra.mp3; sourceTree = "<group>"; };
+		903CCF5418000AA700304936 /* 55LaTanya.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 55LaTanya.mp3; sourceTree = "<group>"; };
+		903CCF5518000AA700304936 /* 56LaKisha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 56LaKisha.mp3; sourceTree = "<group>"; };
+		903CCF5618000AA700304936 /* 57Laquisha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 57Laquisha.mp3; sourceTree = "<group>"; };
+		903CCF5718000AA700304936 /* 58Latoya.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 58Latoya.mp3; sourceTree = "<group>"; };
+		903CCF5818000AA700304936 /* 59Shaniqua.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 59Shaniqua.mp3; sourceTree = "<group>"; };
+		903CCF5918000AA700304936 /* 5Grapedrankisha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 5Grapedrankisha.mp3; sourceTree = "<group>"; };
+		903CCF5A18000AA700304936 /* 60Latifah.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 60Latifah.mp3; sourceTree = "<group>"; };
+		903CCF5B18000AA700304936 /* 6CollaGreeniqua.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 6CollaGreeniqua.mp3; sourceTree = "<group>"; };
+		903CCF5C18000AA700304936 /* 7FriChickenisha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 7FriChickenisha.mp3; sourceTree = "<group>"; };
+		903CCF5D18000AA700304936 /* 8KingKongQuisha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 8KingKongQuisha.mp3; sourceTree = "<group>"; };
+		903CCF5E18000AA700304936 /* 9Alejandrisha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 9Alejandrisha.mp3; sourceTree = "<group>"; };
+		90CBFDA21801D6EA00B9B0DF /* codygraff.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = codygraff.ttf; sourceTree = "<group>"; };
+		90CBFDA31801D71B00B9B0DF /* BOREDSB.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = BOREDSB.TTF; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,12 +248,16 @@
 		903CCE6917FF091F00304936 /* SixtyGhettoNames */ = {
 			isa = PBXGroup;
 			children = (
+				903CCF2218000AA700304936 /* Sounds */,
 				903CCE7217FF091F00304936 /* AppDelegate.h */,
 				903CCE7317FF091F00304936 /* AppDelegate.m */,
 				903CCE7517FF091F00304936 /* Main_iPhone.storyboard */,
 				903CCE7817FF091F00304936 /* Main_iPad.storyboard */,
 				903CCE7B17FF091F00304936 /* ViewController.h */,
 				903CCE7C17FF091F00304936 /* ViewController.m */,
+				903CCEA117FF4C4900304936 /* Constants.h */,
+				903CCE9E17FF4BB100304936 /* Sound.h */,
+				903CCE9F17FF4BB100304936 /* Sound.m */,
 				903CCE7E17FF091F00304936 /* Images.xcassets */,
 				903CCE6A17FF091F00304936 /* Supporting Files */,
 			);
@@ -129,6 +267,11 @@
 		903CCE6A17FF091F00304936 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				90CBFDA31801D71B00B9B0DF /* BOREDSB.TTF */,
+				90CBFDA21801D6EA00B9B0DF /* codygraff.ttf */,
+				903CCF2017FF500300304936 /* FortyScript.ttf */,
+				903CCEA217FF4D0000304936 /* GhettoNames.txt */,
+				903CCE9B17FF499A00304936 /* graffitiWall.jpg */,
 				903CCE6B17FF091F00304936 /* SixtyGhettoNames-Info.plist */,
 				903CCE6C17FF091F00304936 /* InfoPlist.strings */,
 				903CCE6F17FF091F00304936 /* main.m */,
@@ -153,6 +296,73 @@
 				903CCE8E17FF091F00304936 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		903CCF2218000AA700304936 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				903CCF2318000AA700304936 /* 10UnitedStatesZovAmerikaliqua.mp3 */,
+				903CCF2418000AA700304936 /* 11Cellularphoniqua.mp3 */,
+				903CCF2518000AA700304936 /* 12Watermelondrea.mp3 */,
+				903CCF2618000AA700304936 /* 13Beethovenice.mp3 */,
+				903CCF2718000AA700304936 /* 14Harlemisha.mp3 */,
+				903CCF2818000AA700304936 /* 15Comptonia.mp3 */,
+				903CCF2918000AA700304936 /* 16FaNayNay.mp3 */,
+				903CCF2A18000AA700304936 /* 17Clitorisandrea.mp3 */,
+				903CCF2B18000AA700304936 /* 18Spongebobeeshia.mp3 */,
+				903CCF2C18000AA700304936 /* 19Koolaidria.mp3 */,
+				903CCF2D18000AA700304936 /* 1Courtney.mp3 */,
+				903CCF2E18000AA700304936 /* 20Obamaniqua.mp3 */,
+				903CCF2F18000AA700304936 /* 21Barackisha.mp3 */,
+				903CCF3018000AA700304936 /* 22Congratulashayla.mp3 */,
+				903CCF3118000AA700304936 /* 23Cornbreesha.mp3 */,
+				903CCF3218000AA700304936 /* 24QuaLifriaquiShaNiquia.mp3 */,
+				903CCF3318000AA700304936 /* 25Guuuuuurrrrrrllllll.mp3 */,
+				903CCF3418000AA700304936 /* 26LaQuaysha.mp3 */,
+				903CCF3518000AA700304936 /* 27Elephantisha.mp3 */,
+				903CCF3618000AA700304936 /* 28ShaQuonda.mp3 */,
+				903CCF3718000AA700304936 /* 29ShaLondria.mp3 */,
+				903CCF3818000AA700304936 /* 2LaTanianaBoVanashrianiqualiquanice.mp3 */,
+				903CCF3918000AA700304936 /* 30KaLikatifrianiqua.mp3 */,
+				903CCF3A18000AA700304936 /* 31DeLanice.mp3 */,
+				903CCF3B18000AA700304936 /* 32Tramicia.mp3 */,
+				903CCF3C18000AA700304936 /* 33Deedra.mp3 */,
+				903CCF3D18000AA700304936 /* 34LaTrice.mp3 */,
+				903CCF3E18000AA700304936 /* 35DaQuonde.mp3 */,
+				903CCF3F18000AA700304936 /* 36TayTay.mp3 */,
+				903CCF4018000AA700304936 /* 37ShaNayNay.mp3 */,
+				903CCF4118000AA700304936 /* 38VLantaLaManaMaNisha.mp3 */,
+				903CCF4218000AA700304936 /* 39BonQuiQui.mp3 */,
+				903CCF4318000AA700304936 /* 3QueShayda.mp3 */,
+				903CCF4418000AA700304936 /* 40Kisha.mp3 */,
+				903CCF4518000AA700304936 /* 41FoLandra.mp3 */,
+				903CCF4618000AA700304936 /* 42Abduiniana.mp3 */,
+				903CCF4718000AA700304936 /* 43MoNique.mp3 */,
+				903CCF4818000AA700304936 /* 44Barbeesha.mp3 */,
+				903CCF4918000AA700304936 /* 45LaQuishraniqua.mp3 */,
+				903CCF4A18000AA700304936 /* 46Bufanaquishria.mp3 */,
+				903CCF4B18000AA700304936 /* 47Levondia.mp3 */,
+				903CCF4C18000AA700304936 /* 48Shataniana.mp3 */,
+				903CCF4D18000AA700304936 /* 49Bonifa.mp3 */,
+				903CCF4E18000AA700304936 /* 4Africanishaniqua.mp3 */,
+				903CCF4F18000AA700304936 /* 50LaQuishria.mp3 */,
+				903CCF5018000AA700304936 /* 51Toprameneesha.mp3 */,
+				903CCF5118000AA700304936 /* 52ShaTanya.mp3 */,
+				903CCF5218000AA700304936 /* 53BonQuisha.mp3 */,
+				903CCF5318000AA700304936 /* 54Rohandra.mp3 */,
+				903CCF5418000AA700304936 /* 55LaTanya.mp3 */,
+				903CCF5518000AA700304936 /* 56LaKisha.mp3 */,
+				903CCF5618000AA700304936 /* 57Laquisha.mp3 */,
+				903CCF5718000AA700304936 /* 58Latoya.mp3 */,
+				903CCF5818000AA700304936 /* 59Shaniqua.mp3 */,
+				903CCF5918000AA700304936 /* 5Grapedrankisha.mp3 */,
+				903CCF5A18000AA700304936 /* 60Latifah.mp3 */,
+				903CCF5B18000AA700304936 /* 6CollaGreeniqua.mp3 */,
+				903CCF5C18000AA700304936 /* 7FriChickenisha.mp3 */,
+				903CCF5D18000AA700304936 /* 8KingKongQuisha.mp3 */,
+				903CCF5E18000AA700304936 /* 9Alejandrisha.mp3 */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,10 +441,75 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				903CCF9518000AA800304936 /* 5Grapedrankisha.mp3 in Resources */,
+				903CCF6518000AA800304936 /* 16FaNayNay.mp3 in Resources */,
 				903CCE7A17FF091F00304936 /* Main_iPad.storyboard in Resources */,
+				903CCF7318000AA800304936 /* 29ShaLondria.mp3 in Resources */,
+				903CCF6318000AA800304936 /* 14Harlemisha.mp3 in Resources */,
+				903CCF8E18000AA800304936 /* 53BonQuisha.mp3 in Resources */,
+				903CCF8D18000AA800304936 /* 52ShaTanya.mp3 in Resources */,
+				903CCF9418000AA800304936 /* 59Shaniqua.mp3 in Resources */,
+				903CCF7F18000AA800304936 /* 3QueShayda.mp3 in Resources */,
+				903CCF7118000AA800304936 /* 27Elephantisha.mp3 in Resources */,
+				903CCF8918000AA800304936 /* 49Bonifa.mp3 in Resources */,
+				903CCF7C18000AA800304936 /* 37ShaNayNay.mp3 in Resources */,
+				903CCF2117FF500300304936 /* FortyScript.ttf in Resources */,
+				903CCF6E18000AA800304936 /* 24QuaLifriaquiShaNiquia.mp3 in Resources */,
+				903CCF8A18000AA800304936 /* 4Africanishaniqua.mp3 in Resources */,
+				903CCF8718000AA800304936 /* 47Levondia.mp3 in Resources */,
+				903CCF6618000AA800304936 /* 17Clitorisandrea.mp3 in Resources */,
+				903CCF6018000AA800304936 /* 11Cellularphoniqua.mp3 in Resources */,
 				903CCE7F17FF091F00304936 /* Images.xcassets in Resources */,
+				903CCF9718000AA800304936 /* 6CollaGreeniqua.mp3 in Resources */,
+				903CCF7518000AA800304936 /* 30KaLikatifrianiqua.mp3 in Resources */,
+				903CCF7B18000AA800304936 /* 36TayTay.mp3 in Resources */,
+				903CCF6A18000AA800304936 /* 20Obamaniqua.mp3 in Resources */,
+				903CCF8B18000AA800304936 /* 50LaQuishria.mp3 in Resources */,
 				903CCE7717FF091F00304936 /* Main_iPhone.storyboard in Resources */,
+				903CCF6818000AA800304936 /* 19Koolaidria.mp3 in Resources */,
+				903CCF7918000AA800304936 /* 34LaTrice.mp3 in Resources */,
+				903CCF8818000AA800304936 /* 48Shataniana.mp3 in Resources */,
+				903CCF9318000AA800304936 /* 58Latoya.mp3 in Resources */,
+				903CCF7218000AA800304936 /* 28ShaQuonda.mp3 in Resources */,
+				903CCF7A18000AA800304936 /* 35DaQuonde.mp3 in Resources */,
+				903CCF6118000AA800304936 /* 12Watermelondrea.mp3 in Resources */,
+				903CCF8218000AA800304936 /* 42Abduiniana.mp3 in Resources */,
+				903CCF6218000AA800304936 /* 13Beethovenice.mp3 in Resources */,
+				903CCF8518000AA800304936 /* 45LaQuishraniqua.mp3 in Resources */,
+				903CCF9218000AA800304936 /* 57Laquisha.mp3 in Resources */,
+				903CCF8618000AA800304936 /* 46Bufanaquishria.mp3 in Resources */,
+				90CBFDA51801D72300B9B0DF /* codygraff.ttf in Resources */,
+				903CCF8118000AA800304936 /* 41FoLandra.mp3 in Resources */,
+				903CCF6D18000AA800304936 /* 23Cornbreesha.mp3 in Resources */,
+				903CCF7418000AA800304936 /* 2LaTanianaBoVanashrianiqualiquanice.mp3 in Resources */,
+				90CBFDA41801D71B00B9B0DF /* BOREDSB.TTF in Resources */,
+				903CCF8018000AA800304936 /* 40Kisha.mp3 in Resources */,
+				903CCF7018000AA800304936 /* 26LaQuaysha.mp3 in Resources */,
+				903CCF8318000AA800304936 /* 43MoNique.mp3 in Resources */,
+				903CCF9A18000AA800304936 /* 9Alejandrisha.mp3 in Resources */,
+				903CCF6718000AA800304936 /* 18Spongebobeeshia.mp3 in Resources */,
+				903CCF6F18000AA800304936 /* 25Guuuuuurrrrrrllllll.mp3 in Resources */,
 				903CCE6E17FF091F00304936 /* InfoPlist.strings in Resources */,
+				903CCF6C18000AA800304936 /* 22Congratulashayla.mp3 in Resources */,
+				903CCF9018000AA800304936 /* 55LaTanya.mp3 in Resources */,
+				903CCF7E18000AA800304936 /* 39BonQuiQui.mp3 in Resources */,
+				903CCF6B18000AA800304936 /* 21Barackisha.mp3 in Resources */,
+				903CCF9118000AA800304936 /* 56LaKisha.mp3 in Resources */,
+				903CCF8F18000AA800304936 /* 54Rohandra.mp3 in Resources */,
+				903CCF9818000AA800304936 /* 7FriChickenisha.mp3 in Resources */,
+				903CCF7618000AA800304936 /* 31DeLanice.mp3 in Resources */,
+				903CCEA317FF4D0000304936 /* GhettoNames.txt in Resources */,
+				903CCF8C18000AA800304936 /* 51Toprameneesha.mp3 in Resources */,
+				903CCF9918000AA800304936 /* 8KingKongQuisha.mp3 in Resources */,
+				903CCF7718000AA800304936 /* 32Tramicia.mp3 in Resources */,
+				903CCF9618000AA800304936 /* 60Latifah.mp3 in Resources */,
+				903CCF8418000AA800304936 /* 44Barbeesha.mp3 in Resources */,
+				903CCF6418000AA800304936 /* 15Comptonia.mp3 in Resources */,
+				903CCF7D18000AA800304936 /* 38VLantaLaManaMaNisha.mp3 in Resources */,
+				903CCF7818000AA800304936 /* 33Deedra.mp3 in Resources */,
+				903CCF5F18000AA700304936 /* 10UnitedStatesZovAmerikaliqua.mp3 in Resources */,
+				903CCE9C17FF499A00304936 /* graffitiWall.jpg in Resources */,
+				903CCF6918000AA800304936 /* 1Courtney.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +531,7 @@
 				903CCE7D17FF091F00304936 /* ViewController.m in Sources */,
 				903CCE7417FF091F00304936 /* AppDelegate.m in Sources */,
 				903CCE7017FF091F00304936 /* main.m in Sources */,
+				903CCEA017FF4BB100304936 /* Sound.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -392,10 +668,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Ben Smith (6SGW8LESM7)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SixtyGhettoNames/SixtyGhettoNames-Prefix.pch";
 				INFOPLIST_FILE = "SixtyGhettoNames/SixtyGhettoNames-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -405,10 +683,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Ben Smith (6SGW8LESM7)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SixtyGhettoNames/SixtyGhettoNames-Prefix.pch";
 				INFOPLIST_FILE = "SixtyGhettoNames/SixtyGhettoNames-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -474,6 +754,7 @@
 				903CCE9717FF091F00304936 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		903CCE9817FF091F00304936 /* Build configuration list for PBXNativeTarget "SixtyGhettoNamesTests" */ = {
 			isa = XCConfigurationList;
@@ -482,6 +763,7 @@
 				903CCE9A17FF091F00304936 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -8,6 +8,12 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <UIScrollViewDelegate,UIPickerViewDelegate,UIPickerViewDataSource>
+@property (nonatomic, strong) NSArray *ghettoNames;
+@property (strong, nonatomic) IBOutletCollection(UIButton) NSArray *ghettoButtons;
+@property (weak, nonatomic) IBOutlet UIScrollView *backgroundView;
+@property (strong, nonatomic) UIImageView *background;
+@property (weak, nonatomic) IBOutlet UIPickerView *picker;
+
 
 @end
