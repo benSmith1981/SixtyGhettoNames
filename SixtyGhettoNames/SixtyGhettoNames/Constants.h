@@ -7,6 +7,6 @@
 //
 
 //#define FONT_TYPE @"FortyScript"
-#define FONT_TYPE @"BOREDSB"
+#define FONT_TYPE @"Urban Jungle"
 //#define FONT_TYPE @"codygraff"
 #define NAME_FONT_SIZE 25.0f

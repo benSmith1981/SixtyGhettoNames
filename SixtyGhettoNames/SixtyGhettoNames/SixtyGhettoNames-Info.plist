@@ -29,6 +29,8 @@
 		<string>FortyScript.ttf</string>
 		<string>codygraff.ttf</string>
 		<string>BOREDSB.TTF</string>
+		<string>detroitghetto.ttf</string>
+		<string>Urban Jungle.ttf</string>
 	</array>
 	<key>UIMainStoryboardFile</key>
 	<string>Main_iPhone</string>

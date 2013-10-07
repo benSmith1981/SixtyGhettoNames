@@ -88,6 +88,12 @@
 		903CCF9A18000AA800304936 /* 9Alejandrisha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 903CCF5E18000AA700304936 /* 9Alejandrisha.mp3 */; };
 		90CBFDA41801D71B00B9B0DF /* BOREDSB.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 90CBFDA31801D71B00B9B0DF /* BOREDSB.TTF */; };
 		90CBFDA51801D72300B9B0DF /* codygraff.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 90CBFDA21801D6EA00B9B0DF /* codygraff.ttf */; };
+		90CBFDA718033FC200B9B0DF /* panoramicWall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90CBFDA618033FC200B9B0DF /* panoramicWall.jpg */; };
+		90CBFDA9180340B700B9B0DF /* thisway.png in Resources */ = {isa = PBXBuildFile; fileRef = 90CBFDA8180340B700B9B0DF /* thisway.png */; };
+		90CBFDAB180342AD00B9B0DF /* detroitghetto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 90CBFDAA180342AD00B9B0DF /* detroitghetto.ttf */; };
+		90CBFDAC180342AD00B9B0DF /* detroitghetto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 90CBFDAA180342AD00B9B0DF /* detroitghetto.ttf */; };
+		90CBFDAE1803444600B9B0DF /* Urban Jungle.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 90CBFDAD1803444600B9B0DF /* Urban Jungle.ttf */; };
+		90CBFDAF1803444600B9B0DF /* Urban Jungle.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 90CBFDAD1803444600B9B0DF /* Urban Jungle.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -189,6 +195,10 @@
 		903CCF5E18000AA700304936 /* 9Alejandrisha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 9Alejandrisha.mp3; sourceTree = "<group>"; };
 		90CBFDA21801D6EA00B9B0DF /* codygraff.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = codygraff.ttf; sourceTree = "<group>"; };
 		90CBFDA31801D71B00B9B0DF /* BOREDSB.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = BOREDSB.TTF; sourceTree = "<group>"; };
+		90CBFDA618033FC200B9B0DF /* panoramicWall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = panoramicWall.jpg; sourceTree = "<group>"; };
+		90CBFDA8180340B700B9B0DF /* thisway.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thisway.png; sourceTree = "<group>"; };
+		90CBFDAA180342AD00B9B0DF /* detroitghetto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = detroitghetto.ttf; sourceTree = "<group>"; };
+		90CBFDAD1803444600B9B0DF /* Urban Jungle.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Urban Jungle.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -267,6 +277,10 @@
 		903CCE6A17FF091F00304936 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				90CBFDAD1803444600B9B0DF /* Urban Jungle.ttf */,
+				90CBFDAA180342AD00B9B0DF /* detroitghetto.ttf */,
+				90CBFDA8180340B700B9B0DF /* thisway.png */,
+				90CBFDA618033FC200B9B0DF /* panoramicWall.jpg */,
 				90CBFDA31801D71B00B9B0DF /* BOREDSB.TTF */,
 				90CBFDA21801D6EA00B9B0DF /* codygraff.ttf */,
 				903CCF2017FF500300304936 /* FortyScript.ttf */,
@@ -472,9 +486,11 @@
 				903CCF9318000AA800304936 /* 58Latoya.mp3 in Resources */,
 				903CCF7218000AA800304936 /* 28ShaQuonda.mp3 in Resources */,
 				903CCF7A18000AA800304936 /* 35DaQuonde.mp3 in Resources */,
+				90CBFDA718033FC200B9B0DF /* panoramicWall.jpg in Resources */,
 				903CCF6118000AA800304936 /* 12Watermelondrea.mp3 in Resources */,
 				903CCF8218000AA800304936 /* 42Abduiniana.mp3 in Resources */,
 				903CCF6218000AA800304936 /* 13Beethovenice.mp3 in Resources */,
+				90CBFDAE1803444600B9B0DF /* Urban Jungle.ttf in Resources */,
 				903CCF8518000AA800304936 /* 45LaQuishraniqua.mp3 in Resources */,
 				903CCF9218000AA800304936 /* 57Laquisha.mp3 in Resources */,
 				903CCF8618000AA800304936 /* 46Bufanaquishria.mp3 in Resources */,
@@ -497,7 +513,9 @@
 				903CCF9118000AA800304936 /* 56LaKisha.mp3 in Resources */,
 				903CCF8F18000AA800304936 /* 54Rohandra.mp3 in Resources */,
 				903CCF9818000AA800304936 /* 7FriChickenisha.mp3 in Resources */,
+				90CBFDA9180340B700B9B0DF /* thisway.png in Resources */,
 				903CCF7618000AA800304936 /* 31DeLanice.mp3 in Resources */,
+				90CBFDAB180342AD00B9B0DF /* detroitghetto.ttf in Resources */,
 				903CCEA317FF4D0000304936 /* GhettoNames.txt in Resources */,
 				903CCF8C18000AA800304936 /* 51Toprameneesha.mp3 in Resources */,
 				903CCF9918000AA800304936 /* 8KingKongQuisha.mp3 in Resources */,
@@ -518,6 +536,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				903CCE9017FF091F00304936 /* InfoPlist.strings in Resources */,
+				90CBFDAC180342AD00B9B0DF /* detroitghetto.ttf in Resources */,
+				90CBFDAF1803444600B9B0DF /* Urban Jungle.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
